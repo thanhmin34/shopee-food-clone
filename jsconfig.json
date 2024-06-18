@@ -6,7 +6,9 @@
       "@components/*": ["./src/components/*"],
       "@hooks/*": ["./src/hooks/*"],
       "@css/*": ["./src/css/*"],
-      "@data": ["./src/data/*"]
+      "@data/*": ["./src/data/*"],
+      "@network/*": ["./src/network/*"],
+      "@utils/*": ["./src/utils/*"]
     }
   }
 }
