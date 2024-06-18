@@ -1,0 +1,4750 @@
+{
+  "categories": [
+    {
+      "code": "1",
+      "name": "Đồ ăn",
+      "display_order": 0,
+      "tab_icon_mms_img_id": "",
+      "icon_mms_img_id": "",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "food",
+      "parent_category_id": 0,
+      "id": 2387,
+      "categories": [
+        {
+          "code": "1",
+          "name": "Bánh truyền thống",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf57g3o57o96",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "banh-truyen-thong",
+          "parent_category_id": 2387,
+          "id": 2391,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Bánh cuốn / Bánh ướt",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5g2l1sh001",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "banh-cuon-banh-uot",
+              "parent_category_id": 2391,
+              "id": 2403,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5g2l1sh001@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5g2l1sh001@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Bánh xèo / Bánh khọt",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6gnzhxlwbb",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "banh-xeo-banh-khot",
+              "parent_category_id": 2391,
+              "id": 2459,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6gnzhxlwbb@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6gnzhxlwbb@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Bánh bao",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6iqwhpic9d",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "banh-bao",
+              "parent_category_id": 2391,
+              "id": 2461,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6iqwhpic9d@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6iqwhpic9d@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Bánh Huế",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6jdxilpg52",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "banh-hue",
+              "parent_category_id": 2391,
+              "id": 2464,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6jdxilpg52@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6jdxilpg52@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Bánh mì",
+              "display_order": 16,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6hbuj05p93",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "banh-mi",
+              "parent_category_id": 2391,
+              "id": 2460,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6hbuj05p93@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6hbuj05p93@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5fh7yg7h32",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac",
+              "parent_category_id": 2391,
+              "id": 2402,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5fh7yg7h32@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5fh7yg7h32@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf57g3o57o96@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf57g3o57o96@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Lẩu & Nướng",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf5x246vz86f",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "lau-nuong",
+          "parent_category_id": 2387,
+          "id": 2422,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Nướng",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf62txs678ca",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "nuong",
+              "parent_category_id": 2422,
+              "id": 2433,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf62txs678ca@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf62txs678ca@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Lẩu",
+              "display_order": 19,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf76sb9vmsaa",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "lau",
+              "parent_category_id": 2422,
+              "id": 2558,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf76sb9vmsaa@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf76sb9vmsaa@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5x246vz86f@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5x246vz86f@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Đồ ăn dinh dưỡng",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf6680s3nxf3",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "do-an-dinh-duong",
+          "parent_category_id": 2387,
+          "id": 2445,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Salad",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5e0s378kd2",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "salad",
+              "parent_category_id": 2445,
+              "id": 2400,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5e0s378kd2@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5e0s378kd2@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Poke",
+              "display_order": 237,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7j0newkk17",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "poke",
+              "parent_category_id": 2445,
+              "id": 2597,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7j0newkk17@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7j0newkk17@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7jnofsro90",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2598",
+              "parent_category_id": 2445,
+              "id": 2598,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7jnofsro90@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7jnofsro90@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6680s3nxf3@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6680s3nxf3@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Món Âu",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafof7nct59c6",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvafogllbq1952",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafof7nct59c6@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafof7nct59c6@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "tay-au",
+          "parent_category_id": 2387,
+          "id": 34,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafogllbq1952@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafogllbq1952@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Singapore",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafobwc7exwad",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvafocl179n104",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafobwc7exwad@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafobwc7exwad@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "singapore",
+          "parent_category_id": 2387,
+          "id": 30,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafocl179n104@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafocl179n104@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Món Hàn",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafo2yhaezo1f",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvafo3kyexk432",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafo2yhaezo1f@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafo2yhaezo1f@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "han-quoc",
+          "parent_category_id": 2387,
+          "id": 22,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafo3kyexk432@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafo3kyexk432@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Món Nhật",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafo1ln9v9pd6",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvafo2a2a4y5a2",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafo1ln9v9pd6@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafo1ln9v9pd6@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "nhat-ban",
+          "parent_category_id": 2387,
+          "id": 21,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafo2a2a4y5a2@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafo2a2a4y5a2@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Món Thái",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafny7kbc0d3c",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvafnyx376g463",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafny7kbc0d3c@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafny7kbc0d3c@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "thai-lan",
+          "parent_category_id": 2387,
+          "id": 17,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnyx376g463@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnyx376g463@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Món Ấn Độ",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafnwu6blvx6a",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvafnxi19vnx3f",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnwu6blvx6a@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnwu6blvx6a@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "an-do",
+          "parent_category_id": 2387,
+          "id": 16,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnxi19vnx3f@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnxi19vnx3f@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Món Huế",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafnro9subxe1",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvafnsc4txlw07",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnro9subxe1@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnro9subxe1@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "hue",
+          "parent_category_id": 2387,
+          "id": 8,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnsc4txlw07@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnsc4txlw07@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Món Trung Hoa",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafnoeclf1g06",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvafnp3lkgv8c3",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnoeclf1g06@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnoeclf1g06@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "trung-hoa",
+          "parent_category_id": 2387,
+          "id": 4,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnp3lkgv8c3@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnp3lkgv8c3@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Món Việt",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafnl818pd0a4",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvafnmj7eh71f6",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnl818pd0a4@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnl818pd0a4@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "viet-nam",
+          "parent_category_id": 2387,
+          "id": 1,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnmj7eh71f6@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnmj7eh71f6@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Cơm",
+          "display_order": 1,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf5p91m6x9f4",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "com",
+          "parent_category_id": 2387,
+          "id": 2414,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Xôi",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf59d6v1icc5",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "xoi",
+              "parent_category_id": 2414,
+              "id": 2393,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf59d6v1icc5@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf59d6v1icc5@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Cơm tấm",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6q6xlh7ob8",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "com-tam",
+              "parent_category_id": 2414,
+              "id": 2482,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6q6xlh7ob8@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6q6xlh7ob8@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Cơm chiên",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6qrqsfhgea",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "com-chien",
+              "parent_category_id": 2414,
+              "id": 2486,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6qrqsfhgea@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6qrqsfhgea@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Cơm cháy",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6rgfph1p19",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "com-chay",
+              "parent_category_id": 2414,
+              "id": 2487,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6rgfph1p19@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6rgfph1p19@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Cơm văn phòng",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6s5yo49954",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "com-van-phong",
+              "parent_category_id": 2414,
+              "id": 2492,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6s5yo49954@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6s5yo49954@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Cơm gia đình",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6ss5ugdg62",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "com-gia-dinh",
+              "parent_category_id": 2414,
+              "id": 2493,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6ss5ugdg62@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6ss5ugdg62@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6ph4ltot43",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2481",
+              "parent_category_id": 2414,
+              "id": 2481,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6ph4ltot43@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6ph4ltot43@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5p91m6x9f4@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5p91m6x9f4@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Đồ ăn vặt",
+          "display_order": 3,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf5ivkxzs467",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "do-an-vat",
+          "parent_category_id": 2387,
+          "id": 2410,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Xiên que / Viên chiên",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5gs41u901a",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "xien-que-vien-chien",
+              "parent_category_id": 2410,
+              "id": 2404,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5gs41u901a@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5gs41u901a@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Bánh tráng",
+              "display_order": 12,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf78vi98x0cf",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "banh-trang",
+              "parent_category_id": 2410,
+              "id": 2580,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf78vi98x0cf@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf78vi98x0cf@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Các món cuốn",
+              "display_order": 23,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf77hu8ih98f",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "cac-mon-cuon",
+              "parent_category_id": 2410,
+              "id": 2568,
+              "categories": [
+                {
+                  "code": "1",
+                  "name": "Chả giò/ Nem",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "",
+                  "icon_mms_img_id": "",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "cha-gio-nem",
+                  "parent_category_id": 2568,
+                  "id": 2397,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "",
+                      "height": 270
+                    }
+                  ]
+                },
+                {
+                  "code": "1",
+                  "name": "Gỏi/Cuốn",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "",
+                  "icon_mms_img_id": "",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "goi-cuon",
+                  "parent_category_id": 2568,
+                  "id": 2398,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "",
+                      "height": 270
+                    }
+                  ]
+                },
+                {
+                  "code": "1",
+                  "name": "Phở Cuốn",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "",
+                  "icon_mms_img_id": "",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "pho-cuon",
+                  "parent_category_id": 2568,
+                  "id": 2409,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "",
+                      "height": 270
+                    }
+                  ]
+                }
+              ],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf77hu8ih98f@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf77hu8ih98f@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5dcd1izo05",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2399",
+              "parent_category_id": 2410,
+              "id": 2399,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5dcd1izo05@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5dcd1izo05@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5ivkxzs467@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5ivkxzs467@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Tráng miệng",
+          "display_order": 6,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf5ks4l5714d",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "trang-mieng",
+          "parent_category_id": 2387,
+          "id": 2411,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Chè",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5a39u9ote0",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "che",
+              "parent_category_id": 2411,
+              "id": 2394,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5a39u9ote0@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5a39u9ote0@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Kem",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5nbyi3rh34",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "kem",
+              "parent_category_id": 2411,
+              "id": 2412,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5nbyi3rh34@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5nbyi3rh34@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Rau câu & flan",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5onohggdf0",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "rau-cau-flan",
+              "parent_category_id": 2411,
+              "id": 2413,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5onohggdf0@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5onohggdf0@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Trái cây",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf64vqs60442",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "trai-cay-2441",
+              "parent_category_id": 2411,
+              "id": 2441,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf64vqs60442@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf64vqs60442@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Sữa chua",
+              "display_order": 237,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf73i42u8d9b",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "sua-chua-2544",
+              "parent_category_id": 2411,
+              "id": 2544,
+              "categories": [
+                {
+                  "code": "2",
+                  "name": "Món Việt",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafnl818pd0a4",
+                  "icon_mms_img_id": "vn-11134513-7r98o-lvafnmj7eh71f6",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnl818pd0a4@resize_ss340x140!@crop_w340_h140_cT",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnl818pd0a4@resize_ss510x210!@crop_w510_h210_cT",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "viet-nam",
+                  "parent_category_id": 2544,
+                  "id": 1,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnmj7eh71f6@resize_ss180x180!@crop_w180_h180_cT",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnmj7eh71f6@resize_ss270x270!@crop_w270_h270_cT",
+                      "height": 270
+                    }
+                  ]
+                },
+                {
+                  "code": "2",
+                  "name": "Món Âu",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafof7nct59c6",
+                  "icon_mms_img_id": "vn-11134513-7r98o-lvafogllbq1952",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafof7nct59c6@resize_ss340x140!@crop_w340_h140_cT",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafof7nct59c6@resize_ss510x210!@crop_w510_h210_cT",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "tay-au",
+                  "parent_category_id": 2544,
+                  "id": 34,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafogllbq1952@resize_ss180x180!@crop_w180_h180_cT",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafogllbq1952@resize_ss270x270!@crop_w270_h270_cT",
+                      "height": 270
+                    }
+                  ]
+                }
+              ],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf73i42u8d9b@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf73i42u8d9b@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5i7pwwi50d",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2407",
+              "parent_category_id": 2411,
+              "id": 2407,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5i7pwwi50d@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5i7pwwi50d@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5ks4l5714d@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5ks4l5714d@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Bánh Âu Á",
+          "display_order": 9,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf7az94ztw89",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "banh-au-a-2589",
+          "parent_category_id": 2387,
+          "id": 2589,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Bánh kem",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6kqrj52cf0",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "banh-kem",
+              "parent_category_id": 2589,
+              "id": 2469,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6kqrj52cf0@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6kqrj52cf0@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Donut",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6lhyfckkac",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "donut",
+              "parent_category_id": 2589,
+              "id": 2471,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6lhyfckkac@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6lhyfckkac@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Cupcake",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6m4fjv507a",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "cupcake",
+              "parent_category_id": 2589,
+              "id": 2472,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6m4fjv507a@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6m4fjv507a@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Waffle",
+              "display_order": 100,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7k9vjb0t58",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "waffle",
+              "parent_category_id": 2589,
+              "id": 2599,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7k9vjb0t58@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7k9vjb0t58@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6k54esulb9",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2468",
+              "parent_category_id": 2589,
+              "id": 2468,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6k54esulb9@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6k54esulb9@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7az94ztw89@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7az94ztw89@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Đồ chay",
+          "display_order": 10,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf54y7d3f1eb",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "do-chay",
+          "parent_category_id": 2387,
+          "id": 2389,
+          "categories": [],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf54y7d3f1eb@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf54y7d3f1eb@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Bún/Phở/Mì",
+          "display_order": 10,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf5zlyghnod4",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "bun-pho-mi",
+          "parent_category_id": 2387,
+          "id": 2426,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Phở",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5ywfhu3161",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "pho",
+              "parent_category_id": 2426,
+              "id": 2425,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5ywfhu3161@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5ywfhu3161@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Mì",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6yefjn8k1a",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "mi",
+              "parent_category_id": 2426,
+              "id": 2515,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6yefjn8k1a@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6yefjn8k1a@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Hủ tiếu",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6z16nqtp37",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "hu-tieu",
+              "parent_category_id": 2426,
+              "id": 2516,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6z16nqtp37@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6z16nqtp37@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Bún",
+              "display_order": 7,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6xn8ouas0b",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "bun",
+              "parent_category_id": 2426,
+              "id": 2513,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6xn8ouas0b@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6xn8ouas0b@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Gỏi",
+              "display_order": 237,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf787n85n1be",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "goi",
+              "parent_category_id": 2426,
+              "id": 2569,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf787n85n1be@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf787n85n1be@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf61j1rlal06",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2429",
+              "parent_category_id": 2426,
+              "id": 2429,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf61j1rlal06@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf61j1rlal06@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5zlyghnod4@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5zlyghnod4@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Cháo / Soup",
+          "display_order": 13,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf5assswwd22",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "chao-soup",
+          "parent_category_id": 2387,
+          "id": 2395,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Cháo",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6nfblu90ea",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "chao",
+              "parent_category_id": 2395,
+              "id": 2479,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6nfblu90ea@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6nfblu90ea@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Soup",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6ot9m5pgc0",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "soup",
+              "parent_category_id": 2395,
+              "id": 2480,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6ot9m5pgc0@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6ot9m5pgc0@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5assswwd22@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5assswwd22@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Đồ ăn nhanh",
+          "display_order": 14,
+          "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf5snesqz1b3",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf5rwrriw4a8",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5snesqz1b3@resize_ss340x140!@crop_w340_h140_cT",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5snesqz1b3@resize_ss510x210!@crop_w510_h210_cT",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "do-an-nhanh",
+          "parent_category_id": 2387,
+          "id": 2418,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Pizza",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6fali74d78",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "pizza",
+              "parent_category_id": 2418,
+              "id": 2457,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6fali74d78@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6fali74d78@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Burger",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6g0egg2scd",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "burger",
+              "parent_category_id": 2418,
+              "id": 2458,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6g0egg2scd@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6g0egg2scd@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Pasta",
+              "display_order": 17,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf56rer2x93d",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "pasta",
+              "parent_category_id": 2418,
+              "id": 2390,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf56rer2x93d@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf56rer2x93d@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Gà rán",
+              "display_order": 20,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6zsni559d1",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "ga-ran",
+              "parent_category_id": 2418,
+              "id": 2528,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6zsni559d1@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6zsni559d1@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf65kzpt9ge6",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2442",
+              "parent_category_id": 2418,
+              "id": 2442,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf65kzpt9ge6@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf65kzpt9ge6@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5rwrriw4a8@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5rwrriw4a8@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Hải sản",
+          "display_order": 15,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf5uf835no61",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "hai-san",
+          "parent_category_id": 2387,
+          "id": 2419,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Tôm",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6th4r3bh90",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "tom",
+              "parent_category_id": 2419,
+              "id": 2505,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6th4r3bh90@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6th4r3bh90@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Cua",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6u8vnw5p25",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "cua",
+              "parent_category_id": 2419,
+              "id": 2506,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6u8vnw5p25@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6u8vnw5p25@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Sò / Ốc",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6w86q4y5f7",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "so-oc",
+              "parent_category_id": 2419,
+              "id": 2510,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6w86q4y5f7@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6w86q4y5f7@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Mực / Bạch tuộc",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6wx5ple5dd",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "muc-bach-tuoc",
+              "parent_category_id": 2419,
+              "id": 2511,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6wx5ple5dd@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6wx5ple5dd@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Cá",
+              "display_order": 24,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6vklrgx08f",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "ca",
+              "parent_category_id": 2419,
+              "id": 2509,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6vklrgx08f@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6vklrgx08f@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6uu8r825d2",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2507",
+              "parent_category_id": 2419,
+              "id": 2507,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6uu8r825d2@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6uu8r825d2@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5uf835no61@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5uf835no61@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Ẩm thực quốc tế",
+          "display_order": 22,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf7d0i772lf1",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "am-thuc-quoc-te",
+          "parent_category_id": 2387,
+          "id": 2590,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Món Trung",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5r8csnf1fa",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "mon-trung",
+              "parent_category_id": 2590,
+              "id": 2417,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5r8csnf1fa@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5r8csnf1fa@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Món Nhật",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf624yrb6s7a",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "mon-nhat",
+              "parent_category_id": 2590,
+              "id": 2432,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf624yrb6s7a@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf624yrb6s7a@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Món Hàn",
+              "display_order": 237,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7gz4d37x6f",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "mon-han",
+              "parent_category_id": 2590,
+              "id": 2594,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7gz4d37x6f@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7gz4d37x6f@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Món Thái",
+              "display_order": 237,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7hqb9b38e8",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "mon-thai",
+              "parent_category_id": 2590,
+              "id": 2595,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7hqb9b38e8@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7hqb9b38e8@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Món Âu",
+              "display_order": 237,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7iauf9es54",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "mon-au",
+              "parent_category_id": 2590,
+              "id": 2596,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7iauf9es54@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7iauf9es54@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf5wej6snh1d",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2420",
+              "parent_category_id": 2590,
+              "id": 2420,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5wej6snh1d@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf5wej6snh1d@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7d0i772lf1@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7d0i772lf1@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Các món từ thịt",
+          "display_order": 237,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf7473546c81",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "cac-mon-tu-thit",
+          "parent_category_id": 2387,
+          "id": 2546,
+          "categories": [
+            {
+              "code": "2",
+              "name": "Món Việt",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafnl818pd0a4",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvafnmj7eh71f6",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnl818pd0a4@resize_ss340x140!@crop_w340_h140_cT",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnl818pd0a4@resize_ss510x210!@crop_w510_h210_cT",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "viet-nam",
+              "parent_category_id": 2546,
+              "id": 1,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnmj7eh71f6@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnmj7eh71f6@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "2",
+              "name": "Món Bắc",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafnn6idkkke8",
+              "icon_mms_img_id": "",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnn6idkkke8@resize_ss340x140!@crop_w340_h140_cT",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnn6idkkke8@resize_ss510x210!@crop_w510_h210_cT",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "mien-bac",
+              "parent_category_id": 2546,
+              "id": 2,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Gà",
+              "display_order": 4,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7ezt9g84ae",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "ga",
+              "parent_category_id": 2546,
+              "id": 2591,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7ezt9g84ae@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7ezt9g84ae@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Heo",
+              "display_order": 18,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7fos8wo485",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "heo",
+              "parent_category_id": 2546,
+              "id": 2592,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7fos8wo485@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7fos8wo485@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Bò",
+              "display_order": 21,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf63kao6ml56",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "bo",
+              "parent_category_id": 2546,
+              "id": 2434,
+              "categories": [
+                {
+                  "code": "1",
+                  "name": "Bò nướng",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "",
+                  "icon_mms_img_id": "",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "grilled-beef",
+                  "parent_category_id": 2434,
+                  "id": 2523,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "",
+                      "height": 270
+                    }
+                  ]
+                },
+                {
+                  "code": "1",
+                  "name": "Beefsteak - Bò né",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "",
+                  "icon_mms_img_id": "",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "beefsteak",
+                  "parent_category_id": 2434,
+                  "id": 2524,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "",
+                      "height": 270
+                    }
+                  ]
+                },
+                {
+                  "code": "1",
+                  "name": "Bò lá lốt",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "",
+                  "icon_mms_img_id": "",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "beef-betael-leaf",
+                  "parent_category_id": 2434,
+                  "id": 2525,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "",
+                      "height": 270
+                    }
+                  ]
+                },
+                {
+                  "code": "1",
+                  "name": "Bê thui",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "",
+                  "icon_mms_img_id": "",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "veal",
+                  "parent_category_id": 2434,
+                  "id": 2526,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "",
+                      "height": 270
+                    }
+                  ]
+                },
+                {
+                  "code": "1",
+                  "name": "Bò Kho",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "",
+                  "icon_mms_img_id": "",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "beef-stew",
+                  "parent_category_id": 2434,
+                  "id": 2527,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "",
+                      "height": 270
+                    }
+                  ]
+                }
+              ],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf63kao6ml56@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf63kao6ml56@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Vịt",
+              "display_order": 237,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7gdr9rbhc3",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "vit",
+              "parent_category_id": 2546,
+              "id": 2593,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7gdr9rbhc3@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7gdr9rbhc3@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf765k75vxea",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2547",
+              "parent_category_id": 2546,
+              "id": 2547,
+              "categories": [
+                {
+                  "code": "2",
+                  "name": "Món Việt",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafnl818pd0a4",
+                  "icon_mms_img_id": "vn-11134513-7r98o-lvafnmj7eh71f6",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnl818pd0a4@resize_ss340x140!@crop_w340_h140_cT",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnl818pd0a4@resize_ss510x210!@crop_w510_h210_cT",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "viet-nam",
+                  "parent_category_id": 2547,
+                  "id": 1,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnmj7eh71f6@resize_ss180x180!@crop_w180_h180_cT",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnmj7eh71f6@resize_ss270x270!@crop_w270_h270_cT",
+                      "height": 270
+                    }
+                  ]
+                },
+                {
+                  "code": "2",
+                  "name": "Món Bắc",
+                  "display_order": 0,
+                  "tab_icon_mms_img_id": "vn-11134513-7r98o-lvafnn6idkkke8",
+                  "icon_mms_img_id": "",
+                  "tab_icon": [
+                    {
+                      "width": 340,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnn6idkkke8@resize_ss340x140!@crop_w340_h140_cT",
+                      "height": 140
+                    },
+                    {
+                      "width": 510,
+                      "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvafnn6idkkke8@resize_ss510x210!@crop_w510_h210_cT",
+                      "height": 210
+                    }
+                  ],
+                  "url_rewrite_name": "mien-bac",
+                  "parent_category_id": 2547,
+                  "id": 2,
+                  "categories": [],
+                  "icon": [
+                    {
+                      "width": 180,
+                      "value": "",
+                      "height": 180
+                    },
+                    {
+                      "width": 270,
+                      "value": "",
+                      "height": 270
+                    }
+                  ]
+                }
+              ],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf765k75vxea@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf765k75vxea@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7473546c81@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7473546c81@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        }
+      ],
+      "icon": [
+        {
+          "width": 180,
+          "value": "",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Đồ uống",
+      "display_order": 0,
+      "tab_icon_mms_img_id": "",
+      "icon_mms_img_id": "",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "drink",
+      "parent_category_id": 0,
+      "id": 2388,
+      "categories": [
+        {
+          "code": "1",
+          "name": "Đồ uống không cồn",
+          "display_order": 0,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf684a086c35",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "do-uong-khong-con",
+          "parent_category_id": 2388,
+          "id": 2448,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Nước giải khát có gas",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6c3q6b1g10",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "nuoc-giai-khat-co-gas",
+              "parent_category_id": 2448,
+              "id": 2451,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6c3q6b1g10@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6c3q6b1g10@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Sữa",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6enufi3o07",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "sua",
+              "parent_category_id": 2448,
+              "id": 2456,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6enufi3o07@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6enufi3o07@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Trà sữa",
+              "display_order": 2,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6dcecxno02",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "tra-sua",
+              "parent_category_id": 2448,
+              "id": 2453,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6dcecxno02@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6dcecxno02@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Cà phê",
+              "display_order": 5,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6dyvg1al6e",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "ca-phe",
+              "parent_category_id": 2448,
+              "id": 2454,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6dyvg1al6e@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6dyvg1al6e@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Trà",
+              "display_order": 8,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf70eamhd0a4",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "tra-2541",
+              "parent_category_id": 2448,
+              "id": 2541,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf70eamhd0a4@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf70eamhd0a4@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Nước ép & Sinh tố",
+              "display_order": 11,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf79mf4g3x5a",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "nuoc-ep-sinh-to",
+              "parent_category_id": 2448,
+              "id": 2586,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf79mf4g3x5a@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf79mf4g3x5a@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Khác",
+              "display_order": 1000,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7l0igc4ke3",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "khac-2601",
+              "parent_category_id": 2448,
+              "id": 2601,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7l0igc4ke3@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7l0igc4ke3@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf684a086c35@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf684a086c35@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        },
+        {
+          "code": "1",
+          "name": "Đồ uống có cồn (Dưới 5%)",
+          "display_order": 20,
+          "tab_icon_mms_img_id": "",
+          "icon_mms_img_id": "vn-11134513-7r98o-lvaf6a1d74h0c0",
+          "tab_icon": [
+            {
+              "width": 340,
+              "value": "",
+              "height": 140
+            },
+            {
+              "width": 510,
+              "value": "",
+              "height": 210
+            }
+          ],
+          "url_rewrite_name": "do-uong-co-con-duoi-5",
+          "parent_category_id": 2388,
+          "id": 2450,
+          "categories": [
+            {
+              "code": "1",
+              "name": "Thức uống lên men",
+              "display_order": 0,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf6cqh9025bc",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "thuc-uong-len-men",
+              "parent_category_id": 2450,
+              "id": 2452,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6cqh9025bc@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6cqh9025bc@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            },
+            {
+              "code": "1",
+              "name": "Bia",
+              "display_order": 237,
+              "tab_icon_mms_img_id": "",
+              "icon_mms_img_id": "vn-11134513-7r98o-lvaf7aak6jc429",
+              "tab_icon": [
+                {
+                  "width": 340,
+                  "value": "",
+                  "height": 140
+                },
+                {
+                  "width": 510,
+                  "value": "",
+                  "height": 210
+                }
+              ],
+              "url_rewrite_name": "bia-2587",
+              "parent_category_id": 2450,
+              "id": 2587,
+              "categories": [],
+              "icon": [
+                {
+                  "width": 180,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7aak6jc429@resize_ss180x180!@crop_w180_h180_cT",
+                  "height": 180
+                },
+                {
+                  "width": 270,
+                  "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf7aak6jc429@resize_ss270x270!@crop_w270_h270_cT",
+                  "height": 270
+                }
+              ]
+            }
+          ],
+          "icon": [
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6a1d74h0c0@resize_ss180x180!@crop_w180_h180_cT",
+              "height": 180
+            },
+            {
+              "width": 270,
+              "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf6a1d74h0c0@resize_ss270x270!@crop_w270_h270_cT",
+              "height": 270
+            }
+          ]
+        }
+      ],
+      "icon": [
+        {
+          "width": 180,
+          "value": "",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Bia",
+      "display_order": 7,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf0o06ujc492",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf0ncvsmtp56",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf0o06ujc492@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf0o06ujc492@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "bia",
+      "parent_category_id": 0,
+      "id": 61,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf0ncvsmtp56@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf0ncvsmtp56@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Đồ chay",
+      "display_order": 90,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf17ju8twk25",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf16vp85lw1e",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf17ju8twk25@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf17ju8twk25@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "do-chay-98",
+      "parent_category_id": 0,
+      "id": 98,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf16vp85lw1e@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf16vp85lw1e@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Trái cây",
+      "display_order": 91,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf19of4rj898",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf18z65pcdff",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf19of4rj898@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf19of4rj898@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "trai-cay",
+      "parent_category_id": 0,
+      "id": 99,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf18z65pcdff@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf18z65pcdff@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Chúc mừng",
+      "display_order": 122,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf1yoijl2c76",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf1xyzkxus31",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf1yoijl2c76@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf1yoijl2c76@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "chuc-mung",
+      "parent_category_id": 0,
+      "id": 129,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf1xyzkxus31@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf1xyzkxus31@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Chia buồn",
+      "display_order": 125,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf23elmob1a3",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf22sej5ot98",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf23elmob1a3@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf23elmob1a3@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "chia-buon",
+      "parent_category_id": 0,
+      "id": 132,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf22sej5ot98@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf22sej5ot98@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Cây cảnh",
+      "display_order": 126,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf25h8lgmc4a",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf24tdkdpgb2",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf25h8lgmc4a@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf25h8lgmc4a@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "cay-canh",
+      "parent_category_id": 0,
+      "id": 133,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf24tdkdpgb2@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf24tdkdpgb2@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Thịt / Trứng",
+      "display_order": 141,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf2imvccx0d7",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf2i04b23o16",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2imvccx0d7@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2imvccx0d7@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "thit-trung",
+      "parent_category_id": 0,
+      "id": 151,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2i04b23o16@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2i04b23o16@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Thủy hải sản",
+      "display_order": 142,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf2koyer8k86",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf2jy1fbm588",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2koyer8k86@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2koyer8k86@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "thuy-hai-san",
+      "parent_category_id": 0,
+      "id": 152,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2jy1fbm588@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2jy1fbm588@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Rau củ",
+      "display_order": 143,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf2mp3ed8td7",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf2m0eeijoa1",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2mp3ed8td7@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2mp3ed8td7@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "rau-cu",
+      "parent_category_id": 0,
+      "id": 153,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2m0eeijoa1@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2m0eeijoa1@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Gạo mì",
+      "display_order": 145,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf2pfbemq513",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf2orqd5k451",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2pfbemq513@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2pfbemq513@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "gao-mi",
+      "parent_category_id": 0,
+      "id": 155,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2orqd5k451@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2orqd5k451@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Đồ hộp / Đồ uống",
+      "display_order": 146,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf2rh4emj1fc",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf2qrvfkp92e",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2rh4emj1fc@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2rh4emj1fc@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "do-hop-do-uong",
+      "parent_category_id": 0,
+      "id": 156,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2qrvfkp92e@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2qrvfkp92e@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Trang trí",
+      "display_order": 147,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf2t2u26hwcf",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf2s6ddoctae",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2t2u26hwcf@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2t2u26hwcf@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "trang-tri",
+      "parent_category_id": 0,
+      "id": 157,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2s6ddoctae@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2s6ddoctae@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Mỹ phẩm",
+      "display_order": 156,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf2wcr9lsd75",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf2vsi397od4",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2wcr9lsd75@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2wcr9lsd75@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "my-pham",
+      "parent_category_id": 0,
+      "id": 167,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2vsi397od4@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2vsi397od4@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Mẹ & Bé",
+      "display_order": 160,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf30oextusd5",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf3031t30ta9",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf30oextusd5@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf30oextusd5@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "me-be-169",
+      "parent_category_id": 0,
+      "id": 169,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf3031t30ta9@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf3031t30ta9@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Đồ chơi",
+      "display_order": 161,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf2ylhzg5p9f",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf2xz0wc5pb5",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2ylhzg5p9f@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2ylhzg5p9f@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "do-choi",
+      "parent_category_id": 0,
+      "id": 168,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2xz0wc5pb5@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf2xz0wc5pb5@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Nhà thuốc",
+      "display_order": 184,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf3mj104f867",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf3lvfx7ylca",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf3mj104f867@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf3mj104f867@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "nha-thuoc",
+      "parent_category_id": 0,
+      "id": 407,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf3lvfx7ylca@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf3lvfx7ylca@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Gia vị",
+      "display_order": 198,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf1g0rulicd5",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf1fcmtwul41",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf1g0rulicd5@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf1g0rulicd5@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "gia-vi-106",
+      "parent_category_id": 0,
+      "id": 106,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf1fcmtwul41@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf1fcmtwul41@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Thú cưng",
+      "display_order": 204,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf458zkgh05e",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf44ncg4mc69",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf458zkgh05e@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf458zkgh05e@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "thu-cung",
+      "parent_category_id": 0,
+      "id": 792,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf44ncg4mc69@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf44ncg4mc69@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Salon",
+      "display_order": 207,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf4847deuc40",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf47dufz4d91",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4847deuc40@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4847deuc40@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "salon-1002",
+      "parent_category_id": 0,
+      "id": 1002,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf47dufz4d91@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf47dufz4d91@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Quần áo / Giày dép",
+      "display_order": 234,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf4pn5q35025",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf4p18nkh03c",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4pn5q35025@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4pn5q35025@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "quan-ao-giay-dep-1713",
+      "parent_category_id": 0,
+      "id": 1713,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4p18nkh03c@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4p18nkh03c@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Điện tử / Điện gia dụng",
+      "display_order": 236,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf4t36pzf1f9",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf4serobj828",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4t36pzf1f9@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4t36pzf1f9@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "dien-tu-dien-gia-dung",
+      "parent_category_id": 0,
+      "id": 1715,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4serobj828@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4serobj828@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    },
+    {
+      "code": "1",
+      "name": "Trang sức / Phụ kiện",
+      "display_order": 237,
+      "tab_icon_mms_img_id": "vn-11134513-7r98o-lvaf4v6dmjxg9f",
+      "icon_mms_img_id": "vn-11134513-7r98o-lvaf4ujwjfxg79",
+      "tab_icon": [
+        {
+          "width": 340,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4v6dmjxg9f@resize_ss340x140!@crop_w340_h140_cT",
+          "height": 140
+        },
+        {
+          "width": 510,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4v6dmjxg9f@resize_ss510x210!@crop_w510_h210_cT",
+          "height": 210
+        }
+      ],
+      "url_rewrite_name": "trang-suc-phu-kien",
+      "parent_category_id": 0,
+      "id": 1716,
+      "categories": [],
+      "icon": [
+        {
+          "width": 180,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4ujwjfxg79@resize_ss180x180!@crop_w180_h180_cT",
+          "height": 180
+        },
+        {
+          "width": 270,
+          "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lvaf4ujwjfxg79@resize_ss270x270!@crop_w270_h270_cT",
+          "height": 270
+        }
+      ]
+    }
+  ]
+}
